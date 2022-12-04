@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This is the best Python hobbyist blog you'll ever see
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+no cap
